@@ -1,0 +1,36 @@
+
+.kard-ong{
+    text-align: center;
+    font-size: 20px;
+    width: 400px;
+    color:black;
+    background-color: #d1d0d0;
+    
+}
+.kard-chap{
+    text-align: center;
+    font-size: 20px;
+    width: 400px;
+    color:black;
+    background-color: #d1d0d0;
+    
+}
+.kardlar2{
+    display: flex;
+    
+    justify-content: space-around;
+    flex-direction: row; 
+    padding-top: 10px;
+    
+}
+.tugma{
+    margin: 20px;
+    margin-left: 160px;
+    display: inline-block;
+    padding: 10px 40px;
+    color: black;
+    border-radius: 10%;
+}
+    
+    
+    

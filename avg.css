@@ -1,0 +1,227 @@
+.service-card{
+    display: inline-block;
+    width: 30%;
+    background-color: #f8faff;
+    box-sizing: border-box;
+    margin-right: 3%;
+    text-align: center;
+}
+.service-card_title{
+    color: #053640;
+    font-size: 20px;
+    margin-bottom: 20px;
+    text-transform: uppercase;
+}
+.service-card_desctription{
+    font-size: 15px;
+    line-height: 27px;
+    font-weight: 200;
+     color: #797979;
+}
+.service-card_link{
+    font-size: 13px;
+    font-weight: 200;
+    text-transform: uppercase;
+    color: #0364;
+    text-decoration: none;
+}
+.service-card:hover{
+    background-color: #5f30ff;
+}
+.service-card:hover.service-card_title,.service-card:hover.service-card_desctription,.service-card:hover.service-card_link{
+    color: #ffffff;
+}
+
+
+
+.main-navigation_item.active a{
+    color: #efb6df;
+
+}
+.body{
+    font-family: sans-serif;
+}
+.cantainer{
+    width: 40px;
+    margin: auto;
+}
+.to-uppercase{
+    text-transform: uppercase;
+}
+.clearfix{
+    clear: both;
+}
+
+
+.main-header_brend img{
+width: 64px;
+}
+.main-navigation{
+display:inline-block;
+vertical-align: middle;
+background-color: red;
+}
+.main-navig/.tion_item{
+    display: inline-block;
+    padding: 10px;
+
+}
+.main-header_brend{
+    display: inline-block;
+    vertical-align: middle;
+
+}
+.main-navigation_item a{
+color: #05364d;
+text-decoration: none;
+text-transform: uppercase;
+font-size: 12px;
+font-weight: 500;
+}
+.main-navigation_item a:hover{
+    color: #efb6df;
+}
+.main-section{
+    padding: 100px 30px;
+}
+.main-section>div{
+width: 50%;
+float: left;
+}
+.main-section_image{
+    text-align: right;
+}
+.main-section_welcome{
+    font-size: 16px;
+    font-weight: 400;
+    margin-bottom: 20px;
+    color: #797979;
+}
+.main-section_inforduction{
+    margin-top: 20px;
+    font-size: 60px;
+    font-weight: 500;
+    margin-bottom: 20px;
+    color: #05364e;
+}
+.main-section_pasition{
+    color: #05364e;
+    font-size: 24px;
+    font-weight: 300;
+    margin-bottom: 20px;
+}
+.main-section-social_networks a{
+    color: #8fa1aa;
+    font-size: 20px;
+    display: inline-block;
+    margin-right: 16px;
+    cursor: pointer;
+}
+.main-section-social_networks a{
+    color: #8fa1aa;
+    font-size: 20px;
+    display: inline-block;
+    margin-right: 16px;
+    cursor: pointer;
+}
+.main-section-social_networks a:hover{
+    color: #1c44e4;
+}
+.main-section_action{
+    margin-top: 30px;
+    border: none;
+    background-color: #1c44e4;
+    color: #ffffff;
+    font-weight: 500;
+    font-size: 14px;
+    padding: 20px 40px;
+    cursor: pointer;
+    border-radius: 5px;
+}
+.statistics-item{
+    display: inline-block;
+    background-color: #f8f8ff;
+    text-align: center;
+    padding: 2px 10px;
+    margin-right: 20px;
+}
+.statistics-number{
+    font-size: 27px;
+    margin-bottom: 5px;
+    color: #1c44e4;
+}
+.statistics-title{
+    font-size: 16px;
+    color: #797979;
+    font-weight: 300;
+}
+.about-me{
+    width: 50%;
+    float: left;
+}
+.about-me_image img{
+    width: 50%;
+}
+.setion-subtitle{
+    letter-spacing: 2px;
+    font-weight: 500;
+    margin-bottom: 10px;
+    color: #797979;
+    text-transform: uppercase;
+}
+.setion-title{
+    font-size: 42px;
+    text-transform: capitalize;
+    color: #05364d;
+}
+.blur-line{
+    display: inline-block;
+    margin-left: 5px;
+    width: 80px;
+    height: 4px;
+    background-color: rgb(237, 35, 159,0,6);
+}
+.batton{
+    border: none;
+    background-color: #1c44e4;
+    color: #ffffff;
+    font-size: 14px;
+    padding: 20px 40px;
+    cursor: pointer;
+    border-radius: 5px;
+}
+.service-card{
+    display: inline-block;
+    width: 30%;
+    background-color: #f8faff;
+    box-sizing: border-box;
+    margin-right: 3%;
+    text-align: center;
+}
+.service-card_title{
+    color: #053640;
+    font-size: 20px;
+    margin-bottom: 20px;
+    text-transform: uppercase;
+}
+.service-card_desctription{
+    font-size: 15px;
+    line-height: 27px;
+    font-weight: 300;
+     color: #797979;
+}
+.service-card_link{
+    font-size: 13px;
+    font-weight: 500;
+    text-transform: uppercase;
+    color: #0364;
+    text-decoration: none;
+}
+.service-card:hover{
+    background-color: #5f30ff;
+}
+.service-card:hover.service-card_title,.service-card:hover.service-card_desctription,.service-card:hover.service-card_link{
+    color: #ffffff;
+}
+
+

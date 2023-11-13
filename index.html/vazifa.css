@@ -1,0 +1,14 @@
+.main-navigation{
+    list-style: none;
+    text-decoration: none;
+    padding: 10px;
+    background-color: red;
+    color: white;
+    border-radius: 10px;
+    letter-spacing: 2px;
+}
+.main-navigation__item{
+    display: flex;
+    justify-content: space-between;
+
+}

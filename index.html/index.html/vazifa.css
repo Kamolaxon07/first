@@ -1,0 +1,166 @@
+
+    body {
+        display: flex;
+
+        justify-content: space-around;
+         flex-direction: column; 
+        margin: 0;
+        padding: 0;
+        background-color: white;
+        font-family: 'Open Sans', sans-serif;
+    }
+     
+/* Main header styles */
+
+   /* .main-header{
+    position: fixed;
+     display: flex; 
+     justify-content: space-between; 
+     padding: 20px;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background-color: white;
+    box-shadow: 0px 3px 16px 0px rgb(0 0 0 / 10%);
+    z-index: 10;
+} */
+  .hero{
+    display: flex;
+    justify-content:space-around;
+  }
+  .rasim{
+    width: 500px;
+    height: 200px;
+  }
+ .matin{
+      /* text-align: center; */
+      font-size: 20px;
+      text-transform: uppercase;
+      text-decoration: double;
+ }
+ .matin2{
+    /* text-align: center; */
+    text-decoration: dotted;
+ }
+ .tugma{
+    background-color: aquamarine;
+    margin: 20px;
+    margin-left: 160px;
+    display: inline-block;
+    padding: 10px 40px;
+    color: white;
+    border-radius: 10%; 
+ }
+ .h2{
+    text-align: center;
+    text-decoration: dashed;
+    text-transform: uppercase;       
+    font-size: 30px;
+    font-family: sans-serif;
+ }
+ .pp{
+    text-align: center;
+    text-decoration: double;
+    text-transform: capitalize;
+ }
+ .cardlar{
+    display: flex;
+    justify-content:space-between;
+    
+
+ }
+ .card{
+        background-color: white;
+        width: 400px;
+        text-align: center;
+        border-width: 30px;
+        padding: 20px;
+        margin: 30px;
+
+ }
+ .img{
+    width: 240px;
+     aspect-ratio: auto 202 / 130;
+     /* height: 130px; */
+}
+img {
+    overflow-clip-margin: content-box;
+    overflow: clip;
+}
+.tugma3{
+    background-color: rgb(0, 89, 255);
+    color: white;
+    text-align: center;
+    margin: 20px;
+    margin-left: 500px;
+    display: inline-block;
+    padding: 10px 40px;
+    border-radius: 10%; 
+ 
+}
+
+.bizmatni{
+    text-align: center;
+    text-decoration: solid;
+    text-transform: capitalize;
+    font-size: 30px;
+}
+.ppp{
+    text-align: center;
+}
+
+  .main-header__brand { 
+    display: inline-block;
+    vertical-align: middle;
+}
+.main-header__brand img {    
+    width: 64px;
+}
+
+ .main-navigation { 
+    display: inline-block;
+    vertical-align: middle;
+}
+
+ .main-navigation__item{ 
+    display: inline-block;
+    padding: 10px; 
+}
+  
+.main-navigation__item a {
+    color: #05364d;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 12px;
+    font-weight: 500;
+}
+ .main-navigation__item a:hover {
+    color: #efb6df;
+}
+.main-navigation__item.active a {
+    color: #efb6df;
+} 
+/* Main section */
+ .main-banner{
+    background: url('client-3.png') no-repeat top center;
+    background-position: center;
+    background-size: cover;
+    min-height: 890px;      
+}
+
+.main-section{
+    padding: 120px 30px;
+}
+
+.main-section > div {
+    width: 50%;
+    float: left;
+}
+
+.main-section__image {
+     text-align: right; 
+    width: 1000px;
+    height: 1000px;
+}
+
+ 
